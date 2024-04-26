@@ -86,7 +86,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-@media   (max-width: 6070px) {
+@media   (max-width: 670px) {
     .container{
         width: 80%;
     }
